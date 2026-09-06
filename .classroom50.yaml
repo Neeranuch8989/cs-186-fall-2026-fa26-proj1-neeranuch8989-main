@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cs-186-fall-2026"
+assignment: "fa26-proj1"
+secret: "2bdauvw8"
+owner:
+  username: "Neeranuch8989"
+  id: 322698380
+  accepted_at: "2026-09-02T20:37:31Z"
+source:
+  owner: "berkeley-cs186"
+  owner_id: 10535476
+  repo: "fa26-proj1"
+  branch: "main"
